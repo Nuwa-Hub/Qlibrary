@@ -50,7 +50,7 @@
                 <button>සීමාව</button>
             </a>
             <a href="">
-                <button>PvcvbbURE Maths</button>
+                <button>Maths</button>
             </a>
             <a href="">
                 <button>PURE Maths</button>

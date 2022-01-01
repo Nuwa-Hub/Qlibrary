@@ -26,8 +26,70 @@
                 <strong class="time">Time Target : 10 minutes</strong><br>
 
                 <button class="start btn">Start</button>
-                <input type="hidden" value="10">
+                <input type="hidden" value="8">
                 <input id="index" class="index" type="hidden" value="0">
+                <button class="end btn">End</button>
+
+                <img class="img" src="../../images/trigonmetry1.png" alt="" width="600px" height="300px">
+            </p>
+            <p class="col col-complementary" role="complementary">
+                <strong class="topic">Answer</strong><br>
+
+                <img class="img ans" value="0" src="../../images/trigonmetry1ans.png" alt="" width="600px" height="400px">
+            </p>
+        </div>
+
+
+               <div class="layout" value="3">
+            <p class="col col-main" value="2">
+
+                <strong class="topic">Question</strong><br>
+                <strong class="time">Time Target : 10 minutes</strong><br>
+
+                <button class="start btn">Start</button>
+                <input type="hidden" value="8">
+                <input id="index" class="index" type="hidden" value="1">
+                <button class="end btn">End</button>
+
+                <img class="img" src="../../images/trigonmetry2.png" alt="" width="600px" height="300px">
+            </p>
+            <p class="col col-complementary" role="complementary">
+                <strong class="topic">Answer</strong><br>
+
+                <img class="img ans" value="0" src="../../images/trigonmetry2ans.png" alt="" width="600px" height="400px">
+            </p>
+        </div>
+
+
+               <div class="layout" value="3">
+            <p class="col col-main" value="2">
+
+                <strong class="topic">Question</strong><br>
+                <strong class="time">Time Target : 10 minutes</strong><br>
+
+                <button class="start btn">Start</button>
+                <input type="hidden" value="8">
+                <input id="index" class="index" type="hidden" value="2">
+                <button class="end btn">End</button>
+
+                <img class="img" src="../../images/trigonmetry3.png" alt="" width="600px" height="300px">
+            </p>
+            <p class="col col-complementary" role="complementary">
+                <strong class="topic">Answer</strong><br>
+
+                <img class="img ans" value="0" src="../../images/trigonmetry3ans.png" alt="" width="600px" height="400px">
+            </p>
+        </div>
+
+              <div class="layout" value="3">
+            <p class="col col-main" value="2">
+
+                <strong class="topic">Question</strong><br>
+                <strong class="time">Time Target : 10 minutes</strong><br>
+
+                <button class="start btn">Start</button>
+                <input type="hidden" value="8">
+                <input id="index" class="index" type="hidden" value="3">
                 <button class="end btn">End</button>
 
                 <img class="img" src="../../images/trigonmetry1.png" alt="" width="600px" height="300px">
@@ -40,108 +102,108 @@
         </div>
 
 
-        <div class="layout" value="3">
+                <div class="layout" value="3">
             <p class="col col-main" value="2">
 
                 <strong class="topic">Question</strong><br>
                 <strong class="time">Time Target : 10 minutes</strong><br>
 
                 <button class="start btn">Start</button>
-                <input type="hidden" value="1">
-                <input id="index" type="hidden" value="1">
+                <input type="hidden" value="8">
+                <input id="index" class="index" type="hidden" value="4">
                 <button class="end btn">End</button>
 
-                <img class="img" src="../../images/pen.jpg " alt=" " width="600px " height="300px ">
+                <img class="img" src="../../images/trigonmetry1.png" alt="" width="600px" height="300px">
             </p>
-            <p class="col col-complementary " role="complementary ">
-                <strong class="topic ">Answer</strong><br>
-
-                <img class="img ans" src="../../images/pen.jpg " alt=" " width="600px " height="300px ">
-            </p>
-        </div>
-
-
-        <div class="layout " value="3 ">
-            <p class="col col-main " value="2 ">
-
-                <strong class="topic ">Question</strong><br>
-                <strong class="time ">Time Target : 10 minutes</strong><br>
-
-                <button class="start btn ">Start</button>
-                <input type="hidden" value="10 ">
-                <input id="index" type="hidden" value="2">
-
-                <button class="end btn">End</button>
-
-                <img class="img " src="../../images/pen.jpg " alt=" " width="600px " height="300px ">
-            </p>
-            <p class="col col-complementary " role="complementary ">
+            <p class="col col-complementary" role="complementary">
                 <strong class="topic">Answer</strong><br>
 
-                <img class="img ans" src="../../images/pen.jpg " alt=" " width="600px " height="300px ">
-            </p>
-        </div>
-
-        <div class="layout " value="3 ">
-            <p class="col col-main" value="2 ">
-
-                <strong class="topic ">Question</strong><br>
-                <strong class="time ">Time Target : 10 minutes</strong><br>
-
-                <button class="start btn ">Start</button>
-                <input type="hidden" value="1 ">
-                <input id="index" type="hidden" value="3">
-                <button class="end btn ">End</button>
-
-                <img class="img " src="../../images/pen.jpg " alt=" " width="600px " height="300px ">
-            </p>
-            <p class="col col-complementary " role="complementary ">
-                <strong class="topic ">Answer</strong><br>
-
-                <img class="img ans " src="../../images/pen.jpg " alt=" " width="600px " height="300px ">
-            </p>
-        </div>
-
-
-        <div class="layout " value="3 ">
-            <p class="col col-main " value="2 ">
-
-                <strong class="topic ">Question</strong><br>
-                <strong class="time ">Time Target : 10 minutes</strong><br>
-
-                <button class="start btn ">Start</button>
-                <input type="hidden " value="1 ">
-
-                <button class="end btn ">End</button>
-
-                <img class="img " src="../../images/pen.jpg " alt=" " width="600px " height="300px ">
-            </p>
-            <p class="col col-complementary " role="complementary ">
-                <strong class="topic ">Answer</strong><br>
-
-                <img class="img ans " src="../../images/pen.jpg " alt=" " width="600px " height="300px ">
+                <img class="img ans" value="0" src="../../images/trigonmetry1ans.png" alt="" width="600px" height="300px">
             </p>
         </div>
 
 
 
-        <div class="layout " value="3 ">
-            <p class="col col-main " value="2 ">
+              <div class="layout" value="3">
+            <p class="col col-main" value="2">
 
-                <strong class="topic ">Question</strong><br>
-                <strong class="time ">Time Target : 10 minutes</strong><br>
+                <strong class="topic">Question</strong><br>
+                <strong class="time">Time Target : 10 minutes</strong><br>
 
-                <button class="start btn ">Start</button>
-                <input type="hidden " value="1 ">
+                <button class="start btn">Start</button>
+                <input type="hidden" value="8">
+                <input id="index" class="index" type="hidden" value="5">
+                <button class="end btn">End</button>
 
-                <button class="end btn ">End</button>
-
-                <img class="img " src="../../images/pen.jpg " alt=" " width="600px " height="300px ">
+                <img class="img" src="../../images/trigonmetry1.png" alt="" width="600px" height="300px">
             </p>
-            <p class="col col-complementary " role="complementary ">
-                <strong class="topic ">Answer</strong><br>
+            <p class="col col-complementary" role="complementary">
+                <strong class="topic">Answer</strong><br>
 
-                <img class="img ans " src="../../images/pen.jpg " alt=" " width="600px " height="300px ">
+                <img class="img ans" value="0" src="../../images/trigonmetry1ans.png" alt="" width="600px" height="300px">
+            </p>
+        </div>
+
+
+
+                <div class="layout" value="3">
+            <p class="col col-main" value="2">
+
+                <strong class="topic">Question</strong><br>
+                <strong class="time">Time Target : 10 minutes</strong><br>
+
+                <button class="start btn">Start</button>
+                <input type="hidden" value="8">
+                <input id="index" class="index" type="hidden" value="6">
+                <button class="end btn">End</button>
+
+                <img class="img" src="../../images/trigonmetry1.png" alt="" width="600px" height="300px">
+            </p>
+            <p class="col col-complementary" role="complementary">
+                <strong class="topic">Answer</strong><br>
+
+                <img class="img ans" value="0" src="../../images/trigonmetry1ans.png" alt="" width="600px" height="300px">
+            </p>
+        </div>
+
+                <div class="layout" value="3">
+            <p class="col col-main" value="2">
+
+                <strong class="topic">Question</strong><br>
+                <strong class="time">Time Target : 10 minutes</strong><br>
+
+                <button class="start btn">Start</button>
+                <input type="hidden" value="8">
+                <input id="index" class="index" type="hidden" value="7">
+                <button class="end btn">End</button>
+
+                <img class="img" src="../../images/trigonmetry1.png" alt="" width="600px" height="300px">
+            </p>
+            <p class="col col-complementary" role="complementary">
+                <strong class="topic">Answer</strong><br>
+
+                <img class="img ans" value="0" src="../../images/trigonmetry1ans.png" alt="" width="600px" height="300px">
+            </p>
+        </div>
+
+
+                <div class="layout" value="3">
+            <p class="col col-main" value="2">
+
+                <strong class="topic">Question</strong><br>
+                <strong class="time">Time Target : 10 minutes</strong><br>
+
+                <button class="start btn">Start</button>
+                <input type="hidden" value="8">
+                <input id="index" class="index" type="hidden" value="8">
+                <button class="end btn">End</button>
+
+                <img class="img" src="../../images/trigonmetry1.png" alt="" width="600px" height="300px">
+            </p>
+            <p class="col col-complementary" role="complementary">
+                <strong class="topic">Answer</strong><br>
+
+                <img class="img ans" value="0" src="../../images/trigonmetry1ans.png" alt="" width="600px" height="300px">
             </p>
         </div>
     </div>
