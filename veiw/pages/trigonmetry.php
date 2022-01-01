@@ -23,10 +23,10 @@
             <p class="col col-main" value="2">
 
                 <strong class="topic">Question</strong><br>
-                <strong class="time">Time Target : 10 minutes</strong><br>
+                <strong class="time">Time Target : 3 minutes</strong><br>
 
                 <button class="start btn">Start</button>
-                <input type="hidden" value="8">
+                <input type="hidden" value="3">
                 <input id="index" class="index" type="hidden" value="0">
                 <button class="end btn">End</button>
 
@@ -44,10 +44,10 @@
             <p class="col col-main" value="2">
 
                 <strong class="topic">Question</strong><br>
-                <strong class="time">Time Target : 10 minutes</strong><br>
+                <strong class="time">Time Target : 3 minutes</strong><br>
 
                 <button class="start btn">Start</button>
-                <input type="hidden" value="8">
+                <input type="hidden" value="3">
                 <input id="index" class="index" type="hidden" value="1">
                 <button class="end btn">End</button>
 
@@ -65,10 +65,10 @@
             <p class="col col-main" value="2">
 
                 <strong class="topic">Question</strong><br>
-                <strong class="time">Time Target : 10 minutes</strong><br>
+                <strong class="time">Time Target : 3 minutes</strong><br>
 
                 <button class="start btn">Start</button>
-                <input type="hidden" value="8">
+                <input type="hidden" value="3">
                 <input id="index" class="index" type="hidden" value="2">
                 <button class="end btn">End</button>
 
