@@ -38,7 +38,7 @@ $(document).ready(function() {
         // Set a cookie that holds the scroll position.
         $.cookie("question", $(this).next().next().val());
 
-        TIME_LIMIT = time;
+        TIME_LIMIT = time * 60;
         let timePassed = 0;
         let timeLeft = TIME_LIMIT;
         let timerInterval = null;
