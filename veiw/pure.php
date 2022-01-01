@@ -29,7 +29,7 @@
             <!-- navbar -->
             <nav>
                 <ul>
-                    <li><a href="../test.html">Home</a></li>
+                    <li><a href="../index.php">Home</a></li>
                     <li><a href="#">About</a></li>
                     <li><a href="#">Services</a></li>
                     <li><a href="#">Portfolio</a></li>
@@ -43,7 +43,7 @@
             </section>
         </header>
         <section class="grid-content">
-            <a href="pages/trigonmetry.html">
+            <a href="pages/trigonmetry.php">
                 <button>ත්‍රිකෝණමිතිය</button>
             </a>
             <a href="">

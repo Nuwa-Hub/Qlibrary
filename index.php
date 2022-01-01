@@ -42,16 +42,16 @@
             <section class="header-content">
                 <h1>Welcome to</h1>
                 <h2>CM Qlibrary</h2>
-                <a href="files/CombinedMathsSyllabus .pdf" download="CombinedMathsSyllabus">
+                <a href="files/CombinedMathsSyllabus.pdf" download="CombinedMathsSyllabus">
                     <button><i class="fa fa-download"></i>Download Combined Maths Syllabus </button>
                 </a>
                 <button>Meet us</button>
             </section>
             <section class="nav-content">
-                <a href="veiw/pure.html">
+                <a href="veiw/pure.php">
                     <button>PURE Maths</button>
                 </a>
-                <a href="files/CombinedMathsSyllabus .pdf" download="CombinedMathsSyllabus">
+                <a href="files/CombinedMathsSyllabus.pdf" download="CombinedMathsSyllabus">
                     <button>APPLIED Maths</button>
                 </a>
 
