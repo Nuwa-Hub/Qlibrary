@@ -2,8 +2,9 @@
 <html lang="en">
 
 <head>
-    <meta charset="utf-8">
-    <meta name="keywords" content="Qlibrary, combined math, CMQlibrary">
+    <meta charset="utf-8"> 
+    <meta name="author" content="Nuwan Perera">
+    <meta name="keywords" content="Qlibrary, combined math, CMQlibrary,cmqlibrary">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Q Library| Home</title>
     <link rel="stylesheet" href="css/test.css">
